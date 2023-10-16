@@ -24,4 +24,4 @@
 ### Reference
 [https://youtu.be/9R013apT_Pw](https://youtu.be/9R013apT_Pw)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9R013apT_Pw?si=nvnI61AHiJGXMuEB&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Youtube Video](http://img.youtube.com/vi/9R013apT_Pw/0.jpg)](https://www.youtube.com/watch?v=9R013apT_Pw)
